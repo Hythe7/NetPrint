@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"printhub-123456","appId":"1:337591270310:android:f15c2bd650097cc0aa2d67","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"printhub-123456","configurations":{"android":"1:337591270310:android:f15c2bd650097cc0aa2d67","ios":"1:337591270310:ios:194de5ba1667e76caa2d67"}}}}}}
